@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFBF&width=435&lines=Hello%2Cmy+name+is+Everton+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFBF&width=435&lines=Hello%2Cmy+name+is+Evandro+)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117
 )](https://www.instagram.com/evertonsilva06_/)
